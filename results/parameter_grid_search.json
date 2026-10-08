@@ -1,0 +1,74 @@
+[
+    {
+        "cell_size": "4x4",
+        "bins": 6,
+        "feature_dimension": 23064,
+        "extraction_latency_ms": 20.312070846557617,
+        "accuracy": 0.9142857142857143,
+        "f1_score": 0.9526153846153846
+    },
+    {
+        "cell_size": "4x4",
+        "bins": 9,
+        "feature_dimension": 34596,
+        "extraction_latency_ms": 19.868550981794087,
+        "accuracy": 0.8857142857142858,
+        "f1_score": 0.937846153846154
+    },
+    {
+        "cell_size": "4x4",
+        "bins": 12,
+        "feature_dimension": 46128,
+        "extraction_latency_ms": 20.86149283817836,
+        "accuracy": 0.9,
+        "f1_score": 0.9452307692307693
+    },
+    {
+        "cell_size": "8x8",
+        "bins": 6,
+        "feature_dimension": 5400,
+        "extraction_latency_ms": 5.981806346348354,
+        "accuracy": 0.9571428571428571,
+        "f1_score": 0.9753043478260869
+    },
+    {
+        "cell_size": "8x8",
+        "bins": 9,
+        "feature_dimension": 8100,
+        "extraction_latency_ms": 6.081979615347726,
+        "accuracy": 0.9714285714285715,
+        "f1_score": 0.984
+    },
+    {
+        "cell_size": "8x8",
+        "bins": 12,
+        "feature_dimension": 10800,
+        "extraction_latency_ms": 6.360861233302526,
+        "accuracy": 0.9714285714285715,
+        "f1_score": 0.9833043478260869
+    },
+    {
+        "cell_size": "16x16",
+        "bins": 6,
+        "feature_dimension": 1176,
+        "extraction_latency_ms": 3.29634462084089,
+        "accuracy": 0.9714285714285715,
+        "f1_score": 0.9818181818181818
+    },
+    {
+        "cell_size": "16x16",
+        "bins": 9,
+        "feature_dimension": 1764,
+        "extraction_latency_ms": 2.495145797729492,
+        "accuracy": 1.0,
+        "f1_score": 1.0
+    },
+    {
+        "cell_size": "16x16",
+        "bins": 12,
+        "feature_dimension": 2352,
+        "extraction_latency_ms": 2.720604624067034,
+        "accuracy": 0.9857142857142858,
+        "f1_score": 0.9913043478260869
+    }
+]

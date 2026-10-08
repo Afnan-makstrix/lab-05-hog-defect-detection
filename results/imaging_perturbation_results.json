@@ -1,0 +1,44 @@
+[
+    {
+        "scenario": "Nominal Reference",
+        "accuracy": 1.0,
+        "f1_score": 1.0,
+        "accuracy_loss": 0.0,
+        "f1_loss": 0.0
+    },
+    {
+        "scenario": "Underexposure (0.55x)",
+        "accuracy": 0.9142857142857143,
+        "f1_score": 0.9473684210526315,
+        "accuracy_loss": 0.08571428571428574,
+        "f1_loss": 0.052631578947368474
+    },
+    {
+        "scenario": "Overexposure (1.45x)",
+        "accuracy": 1.0,
+        "f1_score": 1.0,
+        "accuracy_loss": 0.0,
+        "f1_loss": 0.0
+    },
+    {
+        "scenario": "Additive Noise (sigma=22)",
+        "accuracy": 0.8571428571428571,
+        "f1_score": 0.9230769230769231,
+        "accuracy_loss": 0.1428571428571429,
+        "f1_loss": 0.07692307692307687
+    },
+    {
+        "scenario": "Conveyor Skew (-12 deg)",
+        "accuracy": 1.0,
+        "f1_score": 1.0,
+        "accuracy_loss": 0.0,
+        "f1_loss": 0.0
+    },
+    {
+        "scenario": "Defocus Blur (sigma=3.0)",
+        "accuracy": 0.6714285714285714,
+        "f1_score": 0.7927927927927928,
+        "accuracy_loss": 0.3285714285714286,
+        "f1_loss": 0.2072072072072072
+    }
+]

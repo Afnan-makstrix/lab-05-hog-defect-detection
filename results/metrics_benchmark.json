@@ -1,0 +1,23 @@
+{
+    "Linear Support Vector Machine": {
+        "accuracy": 0.9714285714285715,
+        "precision": 0.9692307692307693,
+        "recall": 1.0,
+        "f1_score": 0.984,
+        "evaluation_latency_ms": 2.2202696119035994
+    },
+    "Random Forest (100 Trees)": {
+        "accuracy": 0.9,
+        "precision": 0.8967032967032967,
+        "recall": 1.0,
+        "f1_score": 0.9452307692307693,
+        "evaluation_latency_ms": 13.944298880440847
+    },
+    "K-Nearest Neighbors (k=3)": {
+        "accuracy": 0.7285714285714285,
+        "precision": 1.0,
+        "recall": 0.6833333333333333,
+        "f1_score": 0.7927985739750445,
+        "evaluation_latency_ms": 1.6785757882254464
+    }
+}
